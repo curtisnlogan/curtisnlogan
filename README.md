@@ -1,4 +1,4 @@
-# Hi there 👋, I am Curtis Logan
+# Hi there, I am Curtis Logan
 ## I love computer technology, as work, but also in my free-time!
 # Password Generator (WIP)
 ## No more insecure passwords!
