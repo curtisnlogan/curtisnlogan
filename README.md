@@ -14,7 +14,7 @@ I am based in the **📍 Manchester Area, United Kingdom**, and I'm actively see
 
 ### 🚀 My Current Focus
 
-* погружаясь deeply into the **Code Institute's** curriculum, mastering both front-end and back-end development.
+* Working deeply through ehe **Code Institute's** curriculum and projects, mastering both front-end and back-end development.
 * Building and deploying full-stack applications with a focus on clean code and user-centric design.
 * Preparing for my capstone project, where I aim to deliver a polished and impactful application.
 * Eager to connect with and learn from experienced developers in the community.
