@@ -6,7 +6,7 @@
 
 ### Junior Full-Stack Developer
 
-I'm a passionate and driven developer-in-training, currently building a robust skill set in the **Code Institute's Full-Stack Developer Bootcamp**. My journey into tech began from the ground up, fueled by a love for problem-solving—a passion solidified by completing half of **Harvard's CS50P program** before diving headfirst into my bootcamp.
+I'm a passionate and driven developer-in-training, currently building a robust skill set in the **Code Institute's Full-Stack Developer Bootcamp**. My journey into tech began from the ground up, fueled by a love for problem-solving—a passion solidified by completing half of **Harvard's CS50P program** and numerous other online courses before diving headfirst into my bootcamp.
 
 I am based in the **📍 Manchester Area, United Kingdom**, and I'm actively seeking opportunities to apply my skills to real-world challenges, contribute to meaningful open-source projects, and begin my professional career in tech.
 
