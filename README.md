@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-I'm Curtis Logan, a Junior Full-Stack Developer with a passion for [Your Interests, e.g., "developing innovative web applications", "contributing to open-source projects"]. Currently, I am completing a Full-Stack Developer Bootcamp at Code Institute, where I am building a strong foundation in modern web technologies. This profile highlights my projects, technical skills, and professional journey in software development.
+I'm Curtis Logan, a Junior Full-Stack Developer with a passion for developing computer programs. Currently, I am completing a Full-Stack Developer Bootcamp at Code Institute, where I am building a strong foundation in modern frontend technologies.
 
 ---
 
@@ -10,7 +10,7 @@ I'm Curtis Logan, a Junior Full-Stack Developer with a passion for [Your Interes
 - **Current Focus**: Full-Stack Developer Bootcamp at Code Institute
 - **Technologies I'm Learning**: Python, JavaScript, Django, Bootstrap, HTML5, CSS3
 - **Notable Achievement**: Made it halfway so far through Harvards CS50P program, from 0 coding experience
-- **Open to Collaborating on**: open-source projects
+- **Open to Collaborating on**: open-source projects in areas that interest me
 
 ---
 
@@ -22,15 +22,13 @@ Here are some projects I've worked on:
   [Brief Description, e.g., "Developed a weather application with a user-friendly interface using [specific technologies]"]  
   🔗 [Link to Repo or Live Demo]
 
-For more, please explore my pinned repositories or browse my full project list below.
-
 ---
 
 ## Technical Skills
 
-- **Programming Languages**: [e.g., "Python, JavaScript"]
-- **Frameworks and Libraries**: [e.g., "Django, Bootstrap"]
-- **Web Technologies**: [e.g., "HTML5, CSS3"]
+- **Programming Languages**: Python, Javascript
+- **Frameworks and Libraries**: Django, Bootstrap
+- **Web Technologies**: HTML5, CSS3
 - **Tools**: Git, VSCode
 
 ---
