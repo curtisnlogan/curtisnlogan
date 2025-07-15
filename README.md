@@ -9,8 +9,8 @@ I'm Curtis Logan, a Junior Full-Stack Developer with a passion for [Your Interes
 - **Location**: Manchester Area, United Kingdom
 - **Current Focus**: Full-Stack Developer Bootcamp at Code Institute
 - **Technologies I'm Learning**: Python, JavaScript, Django, Bootstrap, HTML5, CSS3
-- **Notable Achievement**: [Something Fun, e.g., "Developed a game in a 48-hour coding challenge"]
-- **Open to Collaborating on**: [Types of Projects, e.g., "web development projects", "innovative side projects"]
+- **Notable Achievement**: Made it halfway so far through Harvards CS50P program, from 0 coding experience
+- **Open to Collaborating on**: open-source projects
 
 ---
 
@@ -31,18 +31,7 @@ For more, please explore my pinned repositories or browse my full project list b
 - **Programming Languages**: [e.g., "Python, JavaScript"]
 - **Frameworks and Libraries**: [e.g., "Django, Bootstrap"]
 - **Web Technologies**: [e.g., "HTML5, CSS3"]
-- **Tools**: [e.g., "VS Code, Git"]
-
----
-
-## Contact Information
-
-I’m open to discussing projects, ideas, or potential collaborations. Here’s how to reach me:
-
-- **Email**: [Your Email]  
-- **Twitter**: [Your Twitter Handle]  
-- **LinkedIn**: [Your LinkedIn Profile]  
-- **Website/Blog**: [Your Website, if applicable]  
+- **Tools**: Git, VSCode
 
 ---
 
