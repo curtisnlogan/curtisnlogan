@@ -6,30 +6,28 @@
 
 ### Junior Full-Stack Developer
 
-I'm a passionate and driven developer-in-training, currently building a robust skill set in the **Code Institute's Full-Stack Developer Bootcamp**. My journey into tech began from the ground up, fueled by a love for problem-solving—a passion solidified by completing half of **Harvard's CS50P program** and numerous other online courses before diving headfirst into my bootcamp.
+I'm a passionate and driven Junior Full-Stack Developer currently honing my skills in the **Code Institute's Full-Stack Developer Bootcamp**. My journey into tech was sparked by a love for problem-solving, leading me to build a strong foundation through self-study—including **Harvard's CS50P program**—before committing to a full-stack curriculum.
 
-I am based in the **📍 Manchester Area, United Kingdom**, and I'm actively seeking opportunities to apply my skills to real-world challenges, contribute to meaningful open-source projects, and begin my professional career in tech.
+Based in the **📍 Manchester Area, United Kingdom**, I am actively seeking junior developer roles where I can contribute to meaningful projects and grow within a collaborative team.
 
 ---
 
 ### 🚀 My Current Focus
 
-* Working deeply through ehe **Code Institute's** curriculum and projects, mastering both front-end and back-end development.
-* Building and deploying full-stack applications with a focus on clean code and user-centric design.
-* Preparing for my capstone project, where I aim to deliver a polished and impactful application.
-* Eager to connect with and learn from experienced developers in the community.
+* Mastering front-end and back-end technologies through the **Code Institute's** intensive, project-based curriculum.
+* Building and deploying full-stack applications with a focus on clean, maintainable code and user-centric design.
+* Developing my capstone project, where I aim to deliver a polished and impactful real-world application.
+* Connecting with and learning from the wider developer community. I'm always open to collaboration and contributing to open-source projects!
 
 ---
 
 ### 🛠️ My Tech Stack
 
-Here are the technologies I'm working with:
-
-| Category          | Technologies                                                                                                                                                                                                                                                          |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages** | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">         |
-| **Web Tech** | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">                                   |
-| **Frameworks** | <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">                |
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"> |
+| **Web Tech** | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> |
+| **Frameworks** | <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"> |
 | **Tools & Platforms** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"> |
 
 ---
@@ -41,4 +39,21 @@ Here are some of the projects I've built during my learning journey.
 <details>
 <summary><strong>Project 1: [Project Name]</strong> - A brief, catchy tagline for your project.</summary>
 <br>
-A responsive web application for [purpose of the app, e.g., tracking personal finances]. It was built to solve [the problem] and features
+A responsive web application for [purpose of the app, e.g., tracking personal finances]. It was built to solve [the problem] and features a clean, intuitive user interface.
+<br><br>
+» **Key Features:**
+<ul>
+  <li>User authentication and secure data storage.</li>
+  <li>Interactive data visualization using Chart.js.</li>
+  <li>Full CRUD (Create, Read, Update, Delete) functionality for user entries.</li>
+</ul>
+» **Tech Stack:** Django, Python, JavaScript, Bootstrap, PostgreSQL.
+<br><br>
+<a href="[LINK_TO_LIVE_DEMO]" target="_blank"><strong>Live Demo</strong></a> | <a href="[LINK_TO_GITHUB_REPO]" target="_blank"><strong>GitHub Repo</strong></a>
+</details>
+
+<details>
+<summary><strong>Project 2: [Another Project Name]</strong> - A short description of its core function.</summary>
+<br>
+...
+</details>
