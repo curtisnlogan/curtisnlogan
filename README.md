@@ -51,9 +51,3 @@ A responsive web application for [purpose of the app, e.g., tracking personal fi
 <br><br>
 <a href="[LINK_TO_LIVE_DEMO]" target="_blank"><strong>Live Demo</strong></a> | <a href="[LINK_TO_GITHUB_REPO]" target="_blank"><strong>GitHub Repo</strong></a>
 </details>
-
-<details>
-<summary><strong>Project 2: [Another Project Name]</strong> - A short description of its core function.</summary>
-<br>
-...
-</details>
