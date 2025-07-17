@@ -35,19 +35,3 @@ Based in the **📍 Manchester Area, United Kingdom**, I am actively seeking jun
 ### 📂 Featured Projects
 
 Here are some of the projects I've built during my learning journey.
-
-<details>
-<summary><strong>Project 1: [Project Name]</strong> - A brief, catchy tagline for your project.</summary>
-<br>
-A responsive web application for [purpose of the app, e.g., tracking personal finances]. It was built to solve [the problem] and features a clean, intuitive user interface.
-<br><br>
-» **Key Features:**
-<ul>
-  <li>User authentication and secure data storage.</li>
-  <li>Interactive data visualization using Chart.js.</li>
-  <li>Full CRUD (Create, Read, Update, Delete) functionality for user entries.</li>
-</ul>
-» **Tech Stack:** Django, Python, JavaScript, Bootstrap, PostgreSQL.
-<br><br>
-<a href="[LINK_TO_LIVE_DEMO]" target="_blank"><strong>Live Demo</strong></a> | <a href="[LINK_TO_GITHUB_REPO]" target="_blank"><strong>GitHub Repo</strong></a>
-</details>
