@@ -24,27 +24,7 @@ Based in the **📍 Manchester Area, United Kingdom**, I’m eager to land junio
 
 ---
 
-### 📂 Featured Projects
-
-Here are some highlights from my learning journey:
-
-- **[Project Name]**: A [description, e.g., "task management tool to organize daily goals, built with Django and JavaScript"]. It taught me [e.g., "RESTful API integration"].
-- **[Project Name]**: A [description, e.g., "personal portfolio site using HTML, CSS, and Bootstrap"]. It honed my skills in [e.g., "front-end styling"].
-
-I’m also working on my capstone project: [e.g., "a community event planner using React and Django"]—stay tuned for updates!
-
----
-
 ### 🎓 Education & Certifications
 
 - **Code Institute's Full-Stack Developer Bootcamp** (In Progress)
-- **Harvard's CS50P: Introduction to Programming with Python**
-- [Add any other relevant courses or certifications]
-
----
-
-### 🌟 Interests & Hobbies
-
-When I’m not coding, you’ll find me [e.g., "exploring the Peak District on hikes, reading sci-fi novels, or tinkering with retro video games"]. These keep me refreshed and inspired.
-
----
+- **Harvard's CS50P: Introduction to Programming with Python** (In Progress)
