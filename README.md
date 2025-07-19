@@ -13,15 +13,6 @@ Based in the **📍 Manchester Area, United Kingdom**, I’m eager to land junio
 
 ---
 
-### 🚀 My Current Focus
-
-- Mastering front-end and back-end technologies through the **Code Institute's** hands-on, project-based curriculum. I’m currently diving deep into **React** for dynamic UIs and **Node.js** for robust server-side logic.
-- Building and deploying full-stack applications, emphasizing clean, maintainable code and user-focused design.
-- Crafting my capstone project—a web app to [insert brief project idea, e.g., "streamline local event planning"]—to showcase my skills in [list relevant tech, e.g., "Django and JavaScript"].
-- Engaging with the developer community. I’m always up for collaboration and excited to contribute to open-source projects!
-
----
-
 ### 🛠️ My Tech Stack
 
 | Category            | Technologies                                                                                          |
