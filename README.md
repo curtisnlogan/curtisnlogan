@@ -13,7 +13,7 @@ Based in the **📍 Manchester Area, United Kingdom**, I’m eager to land junio
 
 ---
 
-### 🛠My Tech Stack
+### My Tech Stack
 
 | Category            | Technologies                                                                                          |
 |---------------------|-------------------------------------------------------------------------------------------------------|
