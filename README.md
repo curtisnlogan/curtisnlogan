@@ -1,7 +1,5 @@
 # Hi, I'm Curtis Logan
 
----
-
 ### Junior Full-Stack Developer
 
 I'm a passionate and driven Junior Full-Stack Developer currently sharpening my skills in the **Code Institute's Full-Stack Developer Bootcamp**. My journey into tech began with a love for problem-solving and a curiosity about how comptuers work at a fundamental level. This passion led me to self-study—starting with **Harvard's CS50P program**—before diving into a comprehensive full-stack curriculum.
