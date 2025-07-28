@@ -1,6 +1,6 @@
 # Hi, I'm Curtis Logan
 
-### Junior Full-Stack Developer
+## Junior Full-Stack Developer
 
 I'm a passionate and driven Junior Full-Stack Developer currently sharpening my skills in the **Code Institute's Full-Stack Developer Bootcamp**. My journey into tech began with a love for problem-solving and a curiosity about how comptuers work at a fundamental level. This passion led me to self-study—starting with **Harvard's CS50P program**—before diving into a comprehensive full-stack curriculum.
 
@@ -8,7 +8,7 @@ Based in the **📍 Manchester Area, United Kingdom**, I’m eager to land junio
 
 ---
 
-### My Tech Stack
+## My Tech Stack
 
 | Category            | Technologies                                                                                          |
 |---------------------|-------------------------------------------------------------------------------------------------------|
@@ -18,6 +18,8 @@ Based in the **📍 Manchester Area, United Kingdom**, I’m eager to land junio
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
+
+## Contact Info
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/curtisnlogan-dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:curtisnlogan@gmail.com)
