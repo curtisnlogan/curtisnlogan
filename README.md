@@ -4,7 +4,7 @@
 
 I'm a Junior Full-Stack Developer currently sharpening my hard and soft skills in the **Code Institute's Full-Stack Developer Bootcamp**. My journey into tech began with a love for problem-solving and a curiosity about how comptuers work at a fundamental level. This passion led me to self-study—starting with **Harvard's CS50P program**—before diving into a comprehensive full-stack curriculum.
 
-Based in the **📍 Manchester Area, United Kingdom**, I’m eager to land junior developer roles where I can contribute to interesting projects.
+Based in the **📍 Manchester Area, United Kingdom**, I’m eager to land junior developer roles where I can contribute to creative projects.
 
 ## My Tech Stack
 
