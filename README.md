@@ -44,7 +44,7 @@ Based in the **📍 Manchester Area, United Kingdom**, I’m eager to land junio
 ---
 
 ## 📚 Currently Learning
-- Code Institute **Full-Stack Developer Bootcamp** (Django/DRF, React, PostgreSQL, CI/CD)
+- Code Institute **Full-Stack Developer Bootcamp**
 - Deepening systems understanding with *Code* by Charles Petzold
 
 ---
