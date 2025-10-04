@@ -1,14 +1,14 @@
 # Curtis Logan
 
 **Junior Full-Stack Developer (Near Manchester, UK)**  
-Security-minded dev shipping Python/Django & JavaScript apps with tests and CI/CD (GitHub Actions → Heroku). I like untangling tricky bugs, writing well-structured code, and building minimalist UIs.
+Security-minded dev shipping Python/Django & JavaScript apps with tests and CI/CD. I like untangling tricky bugs, writing code that adheres to guidelines, and building minimalist UIs.
 
-## What I work with
-- **Back end:** Django, Django REST Framework · REST APIs
-- **Front end:** React, Bootstrap · responsive & a11y-aware
+## What I currently work with
+- **Back end:** Django · REST APIs
+- **Front end:** Javascript · Tailwind CSS · responsive & a11y-aware
 - **Data:** PostgreSQL, SQLite · migrations & ORM
-- **Quality:** Pytest, Jest · PR reviews, lint/format
-- **Delivery:** GitHub Actions CI/CD · 12-factor basics · Heroku
+- **Quality:** Pytest, PR reviews
+- **Delivery:** Heroku
 
 ## Currently learning
 - Code Institute Full-Stack Developer Bootcamp
