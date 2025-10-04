@@ -1,7 +1,7 @@
 # Curtis Logan
 
-**Junior Full-Stack Developer (Manchester, UK)**  
-Security-minded dev shipping Python/Django & JavaScript apps with tests and CI/CD (GitHub Actions → Heroku). I like untangling tricky bugs, writing clear docs, and building accessible UIs.
+**Junior Full-Stack Developer (Near Manchester, UK)**  
+Security-minded dev shipping Python/Django & JavaScript apps with tests and CI/CD (GitHub Actions → Heroku). I like untangling tricky bugs, writing well-structured code, and building minimalist UIs.
 
 ## What I work with
 - **Back end:** Django, Django REST Framework · REST APIs
@@ -19,9 +19,9 @@ Security-minded dev shipping Python/Django & JavaScript apps with tests and CI/C
 - **Lodestar** — Fullstack Django powered Astronomy web app
   👉 [Repo](https://github.com/curtisnlogan/lodestar-project) • [Demo](https://lodestar-project-439dd73a5112.herokuapp.com/)
 - **Quizia** — API-powered quiz web app
-  👉 [Repo](https://github.com/SourTarte/hackathon-quiz-game/tree/main) • [Demo](<add-live-link>)
-- **Prevent** — responsive static site  
   👉 [Repo](https://github.com/SourTarte/hackathon-quiz-game) • [Demo](https://sourtarte.github.io/hackathon-quiz-game/)
+- **Prevent** — responsive static site for UK government initiative
+  👉 [Repo](https://github.com/curtisnlogan/prevent-final) • [Demo](https://curtisnlogan.github.io/prevent-final/)
 
 ## Get in touch
 [Email](mailto:curtisnlogan@gmail.com)
