@@ -1,7 +1,7 @@
 # Curtis Logan
 
 **Junior Full-Stack Developer (Manchester, UK)**  
-Security-minded dev shipping Python/Django & JavaScript apps with tests and CI/CD (GitHub Actions → Heroku). I like untangling tricky bugs, writing clear docs, and building accessible UIs. Applying via Makers to join Deloitte’s UK Gov/Defence teams; happy with 4 days/week on site and willing to undergo security vetting.
+Security-minded dev shipping Python/Django & JavaScript apps with tests and CI/CD (GitHub Actions → Heroku). I like untangling tricky bugs, writing clear docs, and building accessible UIs.
 
 ## What I work with
 - **Back end:** Django, Django REST Framework · REST APIs
