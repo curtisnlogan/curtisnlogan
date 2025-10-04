@@ -1,16 +1,27 @@
 # Curtis Logan
 
-## Junior Full-Stack Developer
+**Junior Full-Stack Developer (Manchester, UK)**  
+Security-minded dev shipping Python/Django & JavaScript apps with tests and CI/CD (GitHub Actions → Heroku). I like untangling tricky bugs, writing clear docs, and building accessible UIs. Applying via Makers to join Deloitte’s UK Gov/Defence teams; happy with 4 days/week on site and willing to undergo security vetting.
 
-I'm currently sharpening my hard and soft skills in the Code Institute's Full-Stack Developer Bootcamp. My journey into tech began with a love for problem-solving and a curiosity about how computers work. I kicked off with Harvard's CS50P and moved into a comprehensive full-stack curriculum.
+## What I work with
+- **Back end:** Django, Django REST Framework · REST APIs
+- **Front end:** React, Bootstrap · responsive & a11y-aware
+- **Data:** PostgreSQL, SQLite · migrations & ORM
+- **Quality:** Pytest, Jest · PR reviews, lint/format
+- **Delivery:** GitHub Actions CI/CD · 12-factor basics · Heroku
 
-Based in the 📍 Manchester Area, United Kingdom, I’m eager to land junior developer roles where I can contribute to creative, user-focused projects.
-## Currently Learning
-
+## Currently learning
+- Preparing for the Makers Java track (beginner): **OOP, Collections, JUnit**
 - Code Institute Full-Stack Developer Bootcamp
+- Systems fundamentals (_Code_, Charles Petzold)
 
-- Deepening systems understanding with Code by Charles Petzold
+## Selected projects
+- **Quizia** — API-powered quiz web app  
+  _Fixed a game-breaking duplicate-request bug and restored reliability; 97%+ Lighthouse perf & a11y._  
+  👉 [Repo](<add-repo-link>) • [Demo](<add-live-link>)
+- **Prevent** — responsive static site  
+  _10+ reusable UI components; semantic HTML5; Flexbox/Grid._  
+  👉 [Repo](<add-repo-link>) • [Demo](<add-live-link>)
 
-## Get in Touch
-
-Email: curtisnlogan@gmail.com • LinkedIn: https://linkedin.com/in/curtisnlogan-dev
+## Get in touch
+[Email](mailto:curtisnlogan@gmail.com) • [LinkedIn](https://linkedin.com/in/curtisnlogan-dev)
