@@ -16,7 +16,7 @@ Security-minded dev shipping Python/Django & JavaScript apps with tests and CI/C
 - Systems fundamentals (_Code_, Charles Petzold)
 
 ## Selected projects
-- **Lodestar** — Fullstack Django powered Astronomy web app
+- **Lodestar** (Work In Progress) — Fullstack Django powered Astronomy web app
   👉 [Repo](https://github.com/curtisnlogan/lodestar-project) • [Demo](https://lodestar-project-439dd73a5112.herokuapp.com/)
 - **Quizia** — API-powered quiz web app
   👉 [Repo](https://github.com/SourTarte/hackathon-quiz-game) • [Demo](https://sourtarte.github.io/hackathon-quiz-game/)
