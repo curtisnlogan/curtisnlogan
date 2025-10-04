@@ -24,4 +24,4 @@ Security-minded dev shipping Python/Django & JavaScript apps with tests and CI/C
   👉 [Repo](<add-repo-link>) • [Demo](<add-live-link>)
 
 ## Get in touch
-[Email](mailto:curtisnlogan@gmail.com) • [LinkedIn](https://linkedin.com/in/curtisnlogan-dev)
+[Email](mailto:curtisnlogan@gmail.com)
