@@ -17,7 +17,7 @@ Security-minded dev shipping Python/Django & JavaScript apps with tests and CI/C
 
 ## Selected projects
 - **Lodestar** — Fullstack Django powered Astronomy web app
-  👉 [Repo](https://github.com/curtisnlogan/lodestar-project)) • [Demo](https://lodestar-project-439dd73a5112.herokuapp.com/))
+  👉 [Repo](https://github.com/curtisnlogan/lodestar-project) • [Demo](https://lodestar-project-439dd73a5112.herokuapp.com/)
 - **Quizia** — API-powered quiz web app
   👉 [Repo](https://github.com/SourTarte/hackathon-quiz-game/tree/main) • [Demo](<add-live-link>)
 - **Prevent** — responsive static site  
