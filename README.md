@@ -11,17 +11,17 @@ Security-minded dev shipping Python/Django & JavaScript apps with tests and CI/C
 - **Delivery:** GitHub Actions CI/CD · 12-factor basics · Heroku
 
 ## Currently learning
-- Preparing for the Makers Java track (beginner): **OOP, Collections, JUnit**
 - Code Institute Full-Stack Developer Bootcamp
+- CS50P Harvard Online Course
 - Systems fundamentals (_Code_, Charles Petzold)
 
 ## Selected projects
-- **Quizia** — API-powered quiz web app  
-  _Fixed a game-breaking duplicate-request bug and restored reliability; 97%+ Lighthouse perf & a11y._  
-  👉 [Repo](<add-repo-link>) • [Demo](<add-live-link>)
+- **Lodestar** — Fullstack Django powered Astronomy web app
+  👉 [Repo](https://github.com/curtisnlogan/lodestar-project)) • [Demo](https://lodestar-project-439dd73a5112.herokuapp.com/))
+- **Quizia** — API-powered quiz web app
+  👉 [Repo](https://github.com/SourTarte/hackathon-quiz-game/tree/main) • [Demo](<add-live-link>)
 - **Prevent** — responsive static site  
-  _10+ reusable UI components; semantic HTML5; Flexbox/Grid._  
-  👉 [Repo](<add-repo-link>) • [Demo](<add-live-link>)
+  👉 [Repo](https://github.com/SourTarte/hackathon-quiz-game) • [Demo](https://sourtarte.github.io/hackathon-quiz-game/)
 
 ## Get in touch
 [Email](mailto:curtisnlogan@gmail.com)
