@@ -30,27 +30,30 @@ My **War Studies degree from King’s College London** (cybersecurity specialism
 
 ---
 
-## 🧭 How I Work
+## 🧭 How I Think Like An Engineer
 
-### 💡 Before Coding
-- **Understanding** – You don’t need to know everything, only what’s necessary to solve the problem.  
-- **Fundamentals** – Strong fundamentals make everything else possible.  
-- **Projects First** – Real projects teach more than theory; code challenges and textbooks are supporting tools, not the main course.  
-- **Planning** – Design deliberately before you write a single line. Clear plans save hours of debugging later.  
+before coding
 
----
+lane: you don’t need to understand everything
+foundations: refresh fundamentals — they never lose relevance
+destination: choose a project that matters; define the outcome, not the tasks
+scope: define the outcome of this session in one sentence, and define what’s out for this cycle
+derisk: if not low-novelty, identify the 1–2 unknowns that could kill this, and spike them immediately
 
-### 🧩 During Coding
-- **🤖 AI** – Use AI as a collaborator, not a crutch. Always understand the code you ship.  
-- **📝 Documentation** – Write docs that communicate intent, not noise. Clarity > verbosity.  
-- **🔧 Git** – Your version history is your time machine: commit atomically and explain *why* changes exist.  
-- **🧠 Decomposition** – Break problems into smaller, testable pieces. Pseudocode first if it helps you think.  
-- **🪶 Craftsmanship** – Code for your future self. Remember *YAGNI*, *KISS*, and *DRY*.  
-- **🧪 Testing** – Test what matters; treat untested code as broken by default.  
-- **♻️ Refactor** – Leave the codebase cleaner than you found it. Small, continuous improvements compound fast.  
+while coding
 
----
+git: if not a one-off, use git; commit small, commit often
+docs: document intent and constraints, not fluff
+ai: ai is a coding aid — always own the diff
+decomposition: sketch the solution in pseudocode first
+write: write so future-you can read it; solve only what’s needed now; keep it simple; reuse what already exists
+observability: add observability as you go — it reveals failure modes you could not imagine before shipping
+testing: prevents the mistakes you can imagine
+refactor: do it when it simplifies comprehension or evolution
 
-### 🔁 After Coding
-- **🪞 Reflection** – Review what worked, what didn’t, and how you’ll approach it better next time.  
-- **🌐 Community** – Learn in public. Share, teach, and connect — knowledge grows when it’s shared!
+after coding
+
+feedback: seek usage signal, not opinion
+reflection: what worked? what failed?
+model updates: change how you think, not just patch the code
+community: learn in public; contribute your discoveries
