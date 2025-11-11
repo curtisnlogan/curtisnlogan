@@ -32,28 +32,25 @@ My **War Studies degree from King’s College London** (cybersecurity specialism
 
 ## 🧭 How I Think Like An Engineer
 
-before coding
+before code
+- scope ruthlessly — only learn the parts of the system you need for this task  
+- commit to one clear outcome — the end state you want to ship (your north star)  
+- define the smallest valuable slice — one shippable step toward that outcome  
+- identify blockers + spike unknowns — run short experiments to de-risk before building
+- 
+writing code
+- use git professionally — branch clearly, commit meaningfully, document intent  
+- sketch the solution in pseudocode first — outline logic before syntax  
+- use ai as a tool — it accelerates you, but you own the diff  
+- name and comment for future humans — clarity beats cleverness  
+- ship the smallest slice that delivers user value, then stop — explicit > smart, simple > elegant  
+- add observability and tests within each slice — prove correctness and detect drift early  
+- refactor only when it makes the next change cheaper — improvement through leverage, not polish
+- 
+after code
+- update the next-slice backlog — capture what’s next, small and concrete  
+- if live, check actual usage — adjust or remove based on real behaviour  
+- log one sentence about wins or pitfalls — record what worked and what didn’t  
+- share the journey publicly — visible consistency compounds credibility
 
-lane: you don’t need to understand everything
-foundations: refresh fundamentals — they never lose relevance
-destination: choose a project that matters; define the outcome, not the tasks
-scope: define the outcome of this session in one sentence, and define what’s out for this cycle
-derisk: if not low-novelty, identify the 1–2 unknowns that could kill this, and spike them immediately
-
-while coding
-
-git: if not a one-off, use git; commit small, commit often
-docs: document intent and constraints, not fluff
-ai: ai is a coding aid — always own the diff
-decomposition: sketch the solution in pseudocode first
-write: write so future-you can read it; solve only what’s needed now; keep it simple; reuse what already exists
-observability: add observability as you go — it reveals failure modes you could not imagine before shipping
-testing: prevents the mistakes you can imagine
-refactor: do it when it simplifies comprehension or evolution
-
-after coding
-
-feedback: seek usage signal, not opinion
-reflection: what worked? what failed?
-model updates: change how you think, not just patch the code
-community: learn in public; contribute your discoveries
+these rules exist to make me a dependable teammate — predictable delivery, clear intent, clean hand-offs.
