@@ -1,114 +1,69 @@
-👋 Hey, I'm Curtis Logan
-**Backend-Focused Full-Stack Developer**
-I build software solutions with an engineering mindset, founded upon Python (Django), PostgreSQL, and JavaScript ES6+. I’m an early-career software engineer with a thoughtful, structured approach to complex coding challenges — shaped by my personal “engineering operating system” that keeps me on a well-proven path.
+👋 Hi, I’m **Curtis Logan** — a backend-focused full-stack developer who builds reliable, maintainable software with a structured engineering mindset. My work is grounded in **Python (Django)**, **PostgreSQL**, and **JavaScript (ES6+)**, supported by a clear, repeatable process that helps me deliver quality consistently.
 
-📍 Near Manchester, UK
+📍 Manchester, UK
 📧 [curtisnlogan@gmail.com](mailto:curtisnlogan@gmail.com)
-🌐 LinkedIn
+🌐 LinkedIn available on request
 
----
+## 🧠 About Me
 
-# 🧠 About Me
+I’m an early-career software engineer shaped by a background in **War Studies and cybersecurity** at King’s College London — disciplines that trained me to analyse systems, clarify assumptions, and approach complexity with discipline rather than improvisation.
 
-I’m a backend-focused full-stack developer, honed in an intensive AI-augmented full-stack bootcamp, with a background in **War Studies and cybersecurity** from King’s College London. That foundation trained me to analyse systems, document assumptions, and approach technical work with clarity and discipline.
+After completing an AI-augmented full-stack bootcamp, I’ve focused on developing a dependable engineering workflow that teams can trust. My strengths lie in **thinking in systems**, **tightening scope**, and writing backend logic that is **clear, testable, and maintainable**.
 
-Since completing my software engineering bootcamp, I’ve focused on building a strong, repeatable engineering workflow — the kind that makes me dependable in a team and safe to trust with real production code over time.
+## 🧵 My Engineering Operating System
 
-My strengths:
+A lightweight workflow that keeps me systematic and predictable:
 
-* thinking in systems
-* tightening scope
-* writing maintainable backend logic
-* documenting intent clearly
-* avoiding unncessary complexity
+**clarify → slice → sketch → implement → test → reflect**
 
----
+* **clarify:** define intent, constraints, inputs/outputs, and edge cases
+* **slice:** identify the smallest valuable deliverable
+* **sketch:** outline flow and behaviour before coding
+* **implement:** write the simplest solution that meets the constraints
+* **test:** verify expected behaviour, meaningful edge cases, and invariants
+* **reflect:** validate outcomes, capture lessons, and refine for future work
 
-# 🧵 My Engineering Operating System
+This process allows me to deliver in small, safe steps while maintaining clarity throughout the work.
 
-A lightweight process that helps me deliver quality consistently, even as a junior dev.
+## 🧑‍💻 Featured Projects
 
-clarify → slice → sketch → implement → test → reflect
-* clarify — project level: intent, constraints, scope, trade-offs; code level: inputs, outputs, edge cases
-* slice — pick the smallest valuable piece and define “done” for that slice
-* sketch — pseudocode or a quick design that checks flow and satisfies the constraints
-* implement — write the simplest code that works clearly, commit small, and use ai wisely
-* test — verify the normal behaviour, one meaningful edge case, and any invariants (always true)/assumptions
-* reflect — log the win, share your progress, validate live behaviour, refactor only if it reduces future effort
+* **Lodestar** — Full-stack Django + PostgreSQL application integrating NASA and SIMBAD APIs. Focus on robust data ingestion, boundary clarity, and fault-tolerant architecture.
+* **Quizia** — API-powered quiz platform. Refactored system design to eliminate 30+ redundant API calls and streamline performance.
+* **Art-by-CK** — Client-facing Django site with automated email triggers and accessible, responsive UI.
+* **Prevent** — Security- and accessibility-first static site designed for online safety awareness. Prioritised clarity, simplicity, and user trust.
 
----
-
-# 🧑‍💻 Featured Projects
-
-**Lodestar**
-Full-stack Django + PostgreSQL app integrating NASA and SIMBAD APIs.
-Focused on clean data ingestion, boundary clarity, and fault tolerance.
-
-**Quizia**
-Team-built API-powered quiz platform.
-Refactored the data flow to remove 30+ redundant API calls, improving performance through better system design.
-
-**Art-by-CK**
-Client-facing Django site with automated email triggers and a responsive UI.
-Emphasised accessibility, reliability, and clean configuration.
-
-**Prevent**
-Security and accessibility-first static site for online safety awareness.
-Built with minimal, readable markup and user clarity in mind.
-
----
-
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 **Languages:** Python, JavaScript, HTML5, CSS
 **Frameworks:** Django, REST APIs, Tailwind CSS
-**Database:** PostgreSQL (SQL + ORM)
-**Practices:** Git, automated testing fundamentals, Agile/Scrum, API design
+**Database:** PostgreSQL (ORM + SQL)
+**Practices:** Git, automated testing fundamentals, API design, Agile/Scrum
 
----
+## 🧠 Technical Philosophy
 
-# 🧠 Technical Philosophy
+* Security is foundational, not optional.
+* Clear, simple solutions survive change.
+* Future work should be cheaper because of today’s decisions.
+* Maintainability is a feature.
+* Good engineering is deliberate, not accidental.
 
-* **Security isn’t optional — it’s foundational.**
-* **Clarity outperforms cleverness in the long run.**
-* **Simple architectures survive change better than complex ones.**
-* **Good engineering is about making future work cheaper.**
-
----
-
-# 📜 My Path So Far
-
-* Completed a full-stack bootcamp with a backend specialism
-* Delivered full-stack applications with real data and production-focused architecture
-* Adopted a structured engineering process to improve reliability
-* Transitioned from War Studies (cybersecurity) to software engineering
-* Built projects with clear interfaces, stable behaviour, and maintainable code
-* Continuously improving through deliberate practice, documentation, and building in public
-
----
-
-# 💼 Strengths
+## 💼 Strengths
 
 * Backend & API development
-* Secure design thinking
-* System decomposition
-* Clear communication & documentation
+* Structured problem decomposition
 * Reliable, incremental delivery
-* Debugging through structured analysis
-
----
-
-# ✍️ What I Focus On
-
-* Django patterns
-* API design principles
+* Clear documentation & communication
 * Practical security
-* Debugging techniques
-* Engineering workflow design
-* Building maintainable systems
+* Debugging through systematic analysis
 
----
+## 📜 My Path So Far
 
-# 💬 Let’s Build Something
+* Completed a full-stack bootcamp with backend specialisation
+* Built full-stack applications with real data and production-oriented design
+* Developed a consistent engineering workflow to improve reliability
+* Transitioned from War Studies → cybersecurity → software engineering
+* Committed to clear interfaces, stable behaviour, and maintainable code
 
-I’m looking for roles where I can contribute as a backend-leaning full-stack developer, grow under strong technical guidance, and bring a disciplined, reliable engineering mindset to the team.
+## 💬 Let’s Build Something
+
+I’m seeking opportunities as a **backend-leaning full-stack developer**, ideally in teams that value engineering discipline, clarity, and structured thinking. I bring a calm, analytical approach to complex problems and a workflow that makes me a reliable contributor from day one.
