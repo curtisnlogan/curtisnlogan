@@ -1,6 +1,6 @@
 👋 Hey, I'm Curtis Logan
 **Backend-Focused Full-Stack Developer**
-I build clear, secure, and maintainable systems using Python (Django), PostgreSQL, and modern JavaScript. I’m an early-career engineer with a reliable, structured approach to problem-solving — shaped by a personal “engineering operating system” that keeps delivery predictable and quality high.
+I build software solutions with an engineering mindset, founded upon Python (Django), PostgreSQL, and JavaScript ES6+. I’m an early-career software engineer with a thoughtful, structured approach to complex coding challenges — shaped by my personal “engineering operating system” that keeps me on a well-proven path.
 
 📍 Near Manchester, UK
 📧 [curtisnlogan@gmail.com](mailto:curtisnlogan@gmail.com)
@@ -10,7 +10,7 @@ I build clear, secure, and maintainable systems using Python (Django), PostgreSQ
 
 # 🧠 About Me
 
-I’m a full-stack developer with a background in **War Studies and cybersecurity** from King’s College London. That foundation trained me to analyse systems, document assumptions, and approach technical work with clarity and discipline.
+I’m a backend-focused full-stack developer, honed in an intensive AI-augmented full-stack bootcamp, with a background in **War Studies and cybersecurity** from King’s College London. That foundation trained me to analyse systems, document assumptions, and approach technical work with clarity and discipline.
 
 Since completing my software engineering bootcamp, I’ve focused on building a strong, repeatable engineering workflow — the kind that makes me dependable in a team and safe to trust with real production code over time.
 
@@ -20,7 +20,7 @@ My strengths:
 * tightening scope
 * writing maintainable backend logic
 * documenting intent clearly
-* avoiding complexity early
+* avoiding unncessary complexity
 
 ---
 
@@ -28,38 +28,13 @@ My strengths:
 
 A lightweight process that helps me deliver quality consistently, even as a junior dev.
 
-## **1. Before Writing Code — Define the Work**
-
-* **Scope intentionally.** Understand only what the slice requires.
-* **Choose one clear outcome.** Create a north star that guides decisions.
-* **Break the problem down.** Find the smallest meaningful piece of value.
-* **Spike unknowns early.** Reduce risk before investing.
-
-**Outcome:** a small, well-understood target with fewer surprises.
-
----
-
-## **2. Writing Code — Solve the Real Problem, Cleanly**
-
-* **Use Git professionally.** Clean branches, meaningful commits.
-* **Pseudocode first.** Think through the logic before the syntax.
-* **AI assists — I verify.** No blind autogeneration.
-* **Name and structure for future teammates.** Clarity > cleverness.
-* **Ship the smallest slice.** Avoid scope creep.
-* **Add basic tests + observability.** Prove correctness early.
-
-**Outcome:** code that is explicit, stable, and easy to review.
-
----
-
-## **3. After Shipping — Learn & Iterate**
-
-* **Update the next-slice backlog.** Maintain momentum deliberately.
-* **Check real behaviour.** Validate assumptions with real usage.
-* **Capture quick notes.** What worked, what didn’t, what to adjust.
-* **Share progress publicly.** Build communication discipline.
-
-**Outcome:** feedback loops that make each next change easier.
+clarify → slice → sketch → implement → test → reflect
+* clarify — project level: intent, constraints, scope, trade-offs; code level: inputs, outputs, edge cases
+* slice — pick the smallest valuable piece and define “done” for that slice
+* sketch — pseudocode or a quick design that checks flow and satisfies the constraints
+* implement — write the simplest code that works clearly, commit small, and use ai wisely
+* test — verify the normal behaviour, one meaningful edge case, and any invariants (always true)/assumptions
+* reflect — log the win, share your progress, validate live behaviour, refactor only if it reduces future effort
 
 ---
 
