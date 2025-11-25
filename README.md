@@ -22,22 +22,21 @@ A minimal workflow that keeps delivery consistent, safe, and incremental.
 ## My Portfolio
 
 ### Lodestar
-Django web app integrating NASA/SIMBAD APIs in-to a custom PostgreSQL database.  
+Django full-stack web app for astronmical observations, integrating NASA/SIMBAD APIs in-to a custom PostgreSQL database.  
 Emphasis on clear boundaries, robust ingestion.
-<a href="https://github.com/curtisnlogan/lodestar-capstone">Lodestar Codebase</a>
+* <a href="https://github.com/curtisnlogan/lodestar-capstone">Lodestar Codebase</a>
 
 ### Quizia Hackathon 
-API-driven quiz platform.  
-Refactored architecture to cut **30+ redundant API calls**, improving performance and code clarity.
-<a href="https://github.com/curtisnlogan/lodestar-capstone">Lodestar Codebase</a>
+API-driven quiz game, built during my first-ever hackathon. Refactored architecture to cut **dozens of redundant API calls**, ensuring MVP delivery.
+* <a href="https://github.com/curtisnlogan/lodestar-capstone">Lodestar Codebase</a>
 
 ### Art-by-CK Hackathon
-Client-facing Django site with automated email workflows and accessible UI.
-<a href="https://github.com/curtisnlogan/lodestar-capstone">Lodestar Codebase</a>
+Django website built for cliant during hackathon, with automated email workflows and accessible UI.
+* <a href="https://github.com/curtisnlogan/lodestar-capstone">Lodestar Codebase</a>
 
 ### Prevent  
 Security-first static site focused on simplicity and user trust.
-<a href="https://github.com/curtisnlogan/lodestar-capstone">Lodestar Codebase</a>
+* <a href="https://github.com/curtisnlogan/lodestar-capstone">Lodestar Codebase</a>
 
 ---
 
