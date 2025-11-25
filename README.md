@@ -40,10 +40,10 @@ Government themed static website focused on simplicity and accessibility.
 ---
 
 ## Core Skills
-**Backend:** Python, Django, REST APIs  
-**Frontend:** JavaScript (ES6+), HTML5/CSS3, Tailwind CSS
-**Databases:** PostgreSQL (ORM), SQL
-**Practices:** Agile, Unit Testing, Git, security-first mindset, Clean architecture (SRP/SoC)
+* **Backend:** Python, Django, REST APIs  
+* **Frontend:** JavaScript (ES6+), HTML5/CSS3, Tailwind CSS
+* **Databases:** PostgreSQL (ORM), SQL
+* **Practices:** Agile, Unit Testing, Git, security-first mindset, Clean architecture (SRP/SoC)
 
 ---
 
