@@ -14,7 +14,7 @@ My background in **War Studies and cybersecurity** gives me strong analytical th
 ---
 
 ## My Engineering Approach
-clarify → slice → sketch → implement → test → reflect
+clarify → slice → sketch → implement → test → reflect.
 A minimal workflow that keeps delivery consistent, safe, and incremental.
 
 ---
