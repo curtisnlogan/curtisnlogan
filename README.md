@@ -30,7 +30,7 @@ API-driven quiz game, built during my first-ever hackathon. Refactored almost en
 * <a href="https://github.com/curtisnlogan/quizia-hackathon">Quizia Codebase</a>
 
 ### Art-by-CK Hackathon
-Django website built for Art client during hackathon, were I produced an automated email contact system for the first-time.
+Django website built for Art client during hackathon, were I produced an automated email contact form for the first-time.
 * <a href="https://github.com/curtisnlogan/art-by-ck-hackathon/tree/main">Art-by-CK Codebase</a>
 
 ### Prevent
