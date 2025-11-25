@@ -19,38 +19,42 @@ A minimal workflow that keeps delivery consistent, safe, and incremental.
 
 ---
 
-## Selected Work
+## My Portfolio
 
-### Lodestar  
-Django + PostgreSQL web app integrating NASA/SIMBAD APIs.  
-Emphasis on clear boundaries, robust ingestion, and fault-tolerant behaviour.
+### Lodestar
+Django web app integrating NASA/SIMBAD APIs in-to a custom PostgreSQL database.  
+Emphasis on clear boundaries, robust ingestion.
+<a href="https://github.com/curtisnlogan/lodestar-capstone">Lodestar Codebase</a>
 
-### Quizia  
+### Quizia Hackathon 
 API-driven quiz platform.  
 Refactored architecture to cut **30+ redundant API calls**, improving performance and code clarity.
+<a href="https://github.com/curtisnlogan/lodestar-capstone">Lodestar Codebase</a>
 
-### Art-by-CK  
+### Art-by-CK Hackathon
 Client-facing Django site with automated email workflows and accessible UI.
+<a href="https://github.com/curtisnlogan/lodestar-capstone">Lodestar Codebase</a>
 
 ### Prevent  
 Security-first static site focused on simplicity and user trust.
+<a href="https://github.com/curtisnlogan/lodestar-capstone">Lodestar Codebase</a>
 
 ---
 
 ## Core Skills
-**Backend:** Python, Django, REST  
-**Frontend:** JavaScript (ES6+), HTML/CSS  
+**Backend:** Python, Django, REST APIs  
+**Frontend:** JavaScript (ES6+), HTML5/CSS3
 **Database:** PostgreSQL (ORM + SQL)  
-**Practices:** Testing basics, Git, API design, secure coding  
+**Practices:** Unit Testing, Git, API design, secure coding
 **Strengths:** Systematic debugging, clear communication, scoped problem-solving
 
 ---
 
 ## Technical Philosophy
+- Reliable software engineering takes a deliberate, structured approach 
 - Simple systems survive change
-- Maintainability is essential, not a bonus 
-- Security is non-negotiable 
-- Good software engineering has a deliberate structured approach 
+- Maintainability is essential, not a bonus
+- Security comes first
 - Today’s decisions should make tomorrow cheaper, not more complicated 
 
 ---
