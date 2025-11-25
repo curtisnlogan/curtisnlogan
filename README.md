@@ -63,9 +63,9 @@ Looking for a **backend-leaning full-stack role** in a team that values clarity,
 ## GitHub Snapshot
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=curtislogan&show_icons=false&hide_border=true&count_private=true" />
+<img height="150" src="https://github-readme-stats-one-bice.vercel.app/api?username=curtisnlogan&show_icons=true&hide_border=true&count_private=true" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curtislogan&layout=compact&hide_border=true" />
+<img height="150" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=curtisnlogan&layout=compact&hide_border=true" />
 
 </div>
 
