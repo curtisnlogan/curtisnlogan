@@ -55,11 +55,6 @@ Security-first static site focused on simplicity and user trust.
 
 ---
 
-## Opportunities
-Looking for a **backend-leaning full-stack role** in a team that works within a clear structure, with clarity-first, disciplined engineering.
-
----
-
 ## GitHub Stats
 <div align="center">
 
