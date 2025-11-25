@@ -1,51 +1,72 @@
-👋 Hi, I’m Curtis Logan — a backend-focused full-stack developer who builds reliable, maintainable software with a structured engineering mindset. My work is grounded in Python (Django), PostgreSQL, and JavaScript (ES6+), supported by a clear, repeatable process that helps me deliver quality consistently.
+<h1 align="center">Curtis Logan</h1>
+<h3 align="center">Backend-leaning full-stack developer</h3>
 
-📍 Manchester, UK 📧 curtisnlogan@gmail.com 🌐 LinkedIn available on request
+<p align="center">Manchester, UK · <a href="mailto:curtisnlogan@gmail.com">curtisnlogan@gmail.com</a></p>
 
-🧠 About Me
-I’m an early-career software engineer shaped by a background in War Studies and cybersecurity at King’s College London — disciplines that trained me to analyse systems, clarify assumptions, and approach complexity with discipline rather than improvisation.
+---
 
-After completing an AI-augmented full-stack bootcamp, I’ve focused on developing a dependable engineering workflow that teams can trust. My strengths lie in thinking in systems, tightening scope, and writing backend logic that is clear, testable, and maintainable.
+## Summary
+Backend-focused developer specialising in **Python, Django, and PostgreSQL**.  
+I work with a structured, repeatable process that produces clear, reliable, and maintainable software.  
 
-🧵 My Engineering Operating System
-A lightweight workflow that keeps me systematic and predictable:
+My background in **War Studies and cybersecurity** gives me strong systems thinking: I clarify intent, reduce ambiguity, and design predictable behaviour.
 
+---
+
+## Engineering Approach
 clarify → slice → sketch → implement → test → reflect
+A minimal workflow that keeps delivery consistent, safe, and incremental.
 
-clarify: define intent, constraints, inputs/outputs, and edge cases
-slice: identify the smallest valuable deliverable
-sketch: outline flow and behaviour before coding
-implement: write the simplest solution that meets the constraints
-test: verify expected behaviour, meaningful edge cases, and invariants
-reflect: validate outcomes, capture lessons, and refine for future work
-This process allows me to deliver in small, safe steps while maintaining clarity throughout the work.
+---
 
-🧑‍💻 Featured Projects
-Lodestar — Full-stack Django + PostgreSQL application integrating NASA and SIMBAD APIs. Focus on robust data ingestion, boundary clarity, and fault-tolerant architecture.
-Quizia — API-powered quiz platform. Refactored system design to eliminate 30+ redundant API calls and streamline performance.
-Art-by-CK — Client-facing Django site with automated email triggers and accessible, responsive UI.
-Prevent — Security- and accessibility-first static site designed for online safety awareness. Prioritised clarity, simplicity, and user trust.
-⚙️ Tech Stack
-Languages: Python, JavaScript, HTML5, CSS Frameworks: Django, REST APIs, Tailwind CSS Database: PostgreSQL (ORM + SQL) Practices: Git, automated testing fundamentals, API design, Agile/Scrum
+## Selected Work
 
-🧠 Technical Philosophy
-Security is foundational, not optional.
-Clear, simple solutions survive change.
-Future work should be cheaper because of today’s decisions.
-Maintainability is a feature.
-Good engineering is deliberate, not accidental.
-💼 Strengths
-Backend & API development
-Structured problem decomposition
-Reliable, incremental delivery
-Clear documentation & communication
-Practical security
-Debugging through systematic analysis
-📜 My Path So Far
-Completed a full-stack bootcamp with backend specialisation
-Built full-stack applications with real data and production-oriented design
-Developed a consistent engineering workflow to improve reliability
-Transitioned from War Studies → cybersecurity → software engineering
-Committed to clear interfaces, stable behaviour, and maintainable code
-💬 Let’s Build Something
-I’m seeking opportunities as a backend-leaning full-stack developer, ideally in teams that value engineering discipline, clarity, and structured thinking. I bring a calm, analytical approach to complex problems and a workflow that makes me a reliable contributor from day one.
+### Lodestar  
+Django + PostgreSQL app integrating NASA/SIMBAD APIs.  
+Emphasis on clear boundaries, robust ingestion, and fault-tolerant behaviour.
+
+### Quizia  
+API-driven quiz platform.  
+Refactored architecture to cut **30+ redundant API calls**, improving performance and code clarity.
+
+### Art-by-CK  
+Client-facing Django site with automated email workflows and accessible UI.
+
+### Prevent  
+Security-first static site focused on simplicity and user trust.
+
+---
+
+## Core Skills
+**Backend:** Python, Django, REST  
+**Frontend:** JavaScript (ES6+), HTML/CSS  
+**Database:** PostgreSQL (ORM + SQL)  
+**Practices:** Testing basics, Git, API design, secure coding  
+**Strengths:** Systematic debugging, clear communication, scoped problem-solving
+
+---
+
+## Technical Philosophy
+- Simple systems survive change  
+- Maintainability is a feature  
+- Security is non-negotiable  
+- Good engineering is deliberate  
+- Today’s decisions should make tomorrow cheaper  
+
+---
+
+## Opportunities
+Looking for a **backend-leaning full-stack role** in a team that values clarity, discipline, and predictable engineering.
+
+---
+
+## GitHub Snapshot
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=curtislogan&show_icons=false&hide_border=true&count_private=true" />
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curtislogan&layout=compact&hide_border=true" />
+
+</div>
+
+---
