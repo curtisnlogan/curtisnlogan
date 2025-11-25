@@ -1,7 +1,7 @@
 <h1 align="center">Curtis Logan</h1>
 <h2 align="center">Junior Backend Engineer | Full-Stack Capable | Structured, methodical engineering.</h2>
 
-<p align="center">Near Manchester, UK · <a href="mailto:curtisnlogan@gmail.com">curtisnlogan@gmail.com</a></p> <a href="https://www.linkedin.com/in/curtisnlogan-dev/">My Linkedin Profile</a></p>
+<p align="center">Near Manchester, UK · <a href="mailto:curtisnlogan@gmail.com">curtisnlogan@gmail.com</a> · <a href="https://www.linkedin.com/in/curtisnlogan-dev/">My Linkedin Profile</a></p>
 
 ---
 
