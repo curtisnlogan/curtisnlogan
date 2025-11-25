@@ -7,15 +7,15 @@
 
 ## Summary
 Backend-focused software engineer currently specialising in **Python, Django, and PostgreSQL**.  
-I work with a structured, repeatable process that use best-practices to produce clear, reliable, and maintainable software.  
+I work with a structured, best-practices process is intended to produce reliable and maintainable software solutions.
 
-My background in **War Studies and cybersecurity** gives me strong analytical thinking: I clarify intent, reduce uncessary complexity, and design predictable behaviour.
+My pre-Bootcamp background in **War Studies and cybersecurity** gives me strong analytical thinking: I seek to clarify intent, reduce uneccessary complexity, and code predictable behaviour.
 
 ---
 
 ## My Engineering Approach
 clarify → slice → sketch → implement → test → reflect.
-A minimal workflow that keeps delivery consistent, safe, and incremental.
+A minimal workflow that keeps delivery consistent, safe, and manageable.
 
 ---
 
@@ -23,38 +23,27 @@ A minimal workflow that keeps delivery consistent, safe, and incremental.
 
 ### Lodestar
 Django full-stack web app for astronmical observations, integrating NASA/SIMBAD APIs in-to a custom PostgreSQL database.  
-Emphasis on clear boundaries, robust ingestion.
 * <a href="https://github.com/curtisnlogan/lodestar-capstone">Lodestar Codebase</a>
 
-### Quizia Hackathon 
-API-driven quiz game, built during my first-ever hackathon. Refactored architecture to cut **dozens of redundant API calls**, ensuring MVP delivery.
-* <a href="https://github.com/curtisnlogan/lodestar-capstone">Lodestar Codebase</a>
+### Quizia Hackathon
+API-driven quiz game, built during my first-ever hackathon. Refactored almost entire JavaScript flow to remove **dozens of redundant API calls**, ensuring MVP delivery.
+* <a href="https://github.com/curtisnlogan/quizia-hackathon">Quizia Codebase</a>
 
 ### Art-by-CK Hackathon
-Django website built for cliant during hackathon, with automated email workflows and accessible UI.
-* <a href="https://github.com/curtisnlogan/lodestar-capstone">Lodestar Codebase</a>
+Django website built for Art client during hackathon, were I produced an automated email contact system for the first-time.
+* <a href="https://github.com/curtisnlogan/art-by-ck-hackathon/tree/main">Art-by-CK Codebase</a>
 
-### Prevent  
-Security-first static site focused on simplicity and user trust.
-* <a href="https://github.com/curtisnlogan/lodestar-capstone">Lodestar Codebase</a>
+### Prevent
+Government themed static website focused on simplicity and accessibility.
+* <a href="https://github.com/curtisnlogan/prevent-v1">Prevent Codebase</a>
 
 ---
 
 ## Core Skills
 **Backend:** Python, Django, REST APIs  
-**Frontend:** JavaScript (ES6+), HTML5/CSS3
-**Database:** PostgreSQL (ORM + SQL)  
-**Practices:** Unit Testing, Git, API design, secure coding
-**Strengths:** Systematic debugging, clear communication, scoped problem-solving
-
----
-
-## Technical Philosophy
-- Reliable software engineering takes a deliberate, structured approach 
-- Simple systems survive change
-- Maintainability is essential, not a bonus
-- Security comes first
-- Today’s decisions should make tomorrow cheaper, not more complicated 
+**Frontend:** JavaScript (ES6+), HTML5/CSS3, Tailwind CSS
+**Databases:** PostgreSQL (ORM), SQL
+**Practices:** Agile, Unit Testing, Git, security-first mindset, Clean architecture (SRP/SoC)
 
 ---
 
@@ -62,8 +51,6 @@ Security-first static site focused on simplicity and user trust.
 <div align="center">
 
 <img height="300" src="https://github-readme-stats-one-bice.vercel.app/api?username=curtisnlogan&show_icons=true&hide_border=true&count_private=true" />
-
-<img height="300" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=curtisnlogan&layout=compact&hide_border=true" />
 
 </div>
 
