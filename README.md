@@ -7,7 +7,7 @@
 
 ## Summary
 Backend-focused software engineer currently specialising in **Python, Django, and PostgreSQL**.  
-I work with a structured, best-practices process is intended to produce reliable and maintainable software solutions.
+I work with a structured, best-practices process that is intended to produce reliable and maintainable software solutions.
 
 My pre-Bootcamp background in **War Studies and cybersecurity** gives me strong analytical thinking: I seek to clarify intent, reduce uneccessary complexity, and code predictable behaviour.
 
