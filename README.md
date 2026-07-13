@@ -14,8 +14,10 @@ My pre-Bootcamp background in **War Studies and cybersecurity** gives me strong 
 ---
 
 ## My Engineering Approach
-clarify → slice → sketch → implement → test → reflect.
-A minimal workflow that keeps delivery consistent, safe, and manageable.
+### Design up front; build in thin vertical slices; verify, ship, learn, repeat.
+<p align="center">
+  <img src="workflow.svg" width="50%" alt="Development workflow diagram">
+</p>
 
 ---
 
