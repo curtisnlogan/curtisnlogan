@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 1190" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrGrey" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#8b949e"/>
+    </marker>
+    <marker id="arrGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#3fb950"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="830" height="1190" fill="#0d1117"/>
+
+  <!-- define box -->
+  <rect x="240" y="40" width="320" height="283" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <text x="272" y="94" fill="#e6edf3" font-size="21" font-weight="700">define</text>
+  <text x="272" y="136" fill="#e6edf3" font-size="21" font-weight="700">constraints</text>
+  <text x="304" y="167" fill="#8b949e" font-size="17">domain</text>
+  <text x="304" y="194" fill="#8b949e" font-size="17">technical</text>
+  <text x="272" y="236" fill="#e6edf3" font-size="21" font-weight="700">design</text>
+  <text x="304" y="267" fill="#8b949e" font-size="17">structure</text>
+  <text x="304" y="294" fill="#8b949e" font-size="17">behaviour</text>
+
+  <!-- define -> loop -->
+  <line x1="400" y1="323" x2="400" y2="366" stroke="#8b949e" stroke-width="1.5" marker-end="url(#arrGrey)"/>
+
+  <!-- build/ship loop box -->
+  <rect x="220" y="373" width="360" height="406" rx="10" fill="#0d1a12" stroke="#238636" stroke-width="1.5"/>
+  <text x="252" y="425" fill="#7d8590" font-size="13" font-weight="600" letter-spacing="3">BUILD</text>
+  <text x="252" y="464" fill="#3fb950" font-size="21" font-weight="700">form a slice</text>
+  <text x="252" y="503" fill="#3fb950" font-size="21" font-weight="700">code the minimum</text>
+  <text x="252" y="542" fill="#3fb950" font-size="21" font-weight="700">verify behaviour</text>
+  <text x="252" y="581" fill="#3fb950" font-size="21" font-weight="700">small refactors</text>
+  <text x="252" y="633" fill="#7d8590" font-size="13" font-weight="600" letter-spacing="3">SHIP</text>
+  <text x="252" y="672" fill="#3fb950" font-size="21" font-weight="700">document</text>
+  <text x="252" y="711" fill="#3fb950" font-size="21" font-weight="700">review</text>
+  <text x="252" y="750" fill="#3fb950" font-size="21" font-weight="700">deliver</text>
+
+  <!-- re-verify micro loop: small refactors -> verify -->
+  <path d="M 580 575 H 632 Q 640 575 640 567 V 543 Q 640 535 632 535 H 588"
+        fill="none" stroke="#3fb950" stroke-width="1.5" marker-end="url(#arrGreen)"/>
+  <text x="614" y="615" fill="#8b949e" font-size="16" font-style="italic">&#8635; re-verify</text>
+
+  <!-- loop -> observe -->
+  <line x1="400" y1="779" x2="400" y2="824" stroke="#8b949e" stroke-width="1.5" marker-end="url(#arrGrey)"/>
+
+  <!-- observe box -->
+  <rect x="240" y="831" width="320" height="175" rx="10" fill="#1a1523" stroke="#8957e5" stroke-width="1.5"/>
+  <text x="272" y="883" fill="#bc8cff" font-size="21" font-weight="700">observe</text>
+  <text x="272" y="925" fill="#bc8cff" font-size="21" font-weight="700">learn</text>
+  <text x="272" y="967" fill="#bc8cff" font-size="21" font-weight="700">decide</text>
+
+  <!-- slice loop: decide -> form a slice -->
+  <path d="M 560 961 H 692 Q 700 961 700 953 V 466 Q 700 458 692 458 H 588"
+        fill="none" stroke="#3fb950" stroke-width="1.5" marker-end="url(#arrGreen)"/>
+  <text x="712" y="716" fill="#8b949e" font-size="16" font-style="italic">&#8635; slice</text>
+
+  <!-- revise loop: decide -> define, with branches to constraints and design (dashed) -->
+  <path d="M 240 961 H 148 Q 140 961 140 953 V 95 Q 140 87 148 87 H 232"
+        fill="none" stroke="#8b949e" stroke-width="1.5" stroke-dasharray="6 6" marker-end="url(#arrGrey)"/>
+  <path d="M 140 139 Q 140 131 148 131 H 232"
+        fill="none" stroke="#8b949e" stroke-width="1.5" stroke-dasharray="6 6" marker-end="url(#arrGrey)"/>
+  <path d="M 140 239 Q 140 231 148 231 H 232"
+        fill="none" stroke="#8b949e" stroke-width="1.5" stroke-dasharray="6 6" marker-end="url(#arrGrey)"/>
+  <text x="52" y="530" fill="#8b949e" font-size="16" font-style="italic">&#8635; revise</text>
+
+  <!-- observe -> done -->
+  <line x1="400" y1="1006" x2="400" y2="1049" stroke="#8b949e" stroke-width="1.5" marker-end="url(#arrGrey)"/>
+
+  <!-- done box -->
+  <rect x="322" y="1056" width="156" height="95" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <text x="400" y="1097" fill="#e6edf3" font-size="21" font-weight="700" text-anchor="middle">done</text>
+  <text x="400" y="1126" fill="#8b949e" font-size="16" font-style="italic" text-anchor="middle">for now</text>
+</svg>
